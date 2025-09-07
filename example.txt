@@ -1,8 +1,1 @@
 My Grocery List
-- Apples
-- Bananas
-- Potato Chips
-- Eggs
-- Butter
-- Sugar
-- Lemons
